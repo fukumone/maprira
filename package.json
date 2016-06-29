@@ -1,0 +1,23 @@
+{
+  "name": "maprira",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fukumone",
+  "license": "MIT",
+  "dependencies": {
+    "flux": "^2.1.1",
+    "flux-utils": "^1.0.2",
+    "react": "^15.1.0",
+    "react-dom": "^15.1.0"
+  },
+  "devDependencies": {
+    "babel": "^6.5.2",
+    "babel-preset-es2015": "^6.9.0",
+    "babel-preset-react": "^6.11.1",
+    "browserify": "^13.0.1"
+  }
+}
