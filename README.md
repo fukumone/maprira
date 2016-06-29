@@ -1,10 +1,13 @@
 # Maprira
 
-#### 開発
+#### 開発環境
 
+- ライブラリインストール
 ```
->> webpack src/*.js dist/bundle.js
+>> npm install
+```
 
-#自動起動
->> webpack -d --watch src/* dist/bundle.js
+- サーバ起動
+```
+>> node server.js
 ```
